@@ -1,0 +1,2 @@
+webpackJsonp([54933639804265],{331:function(o,a){o.exports={data:{markdownRemark:{html:"<p>Beard roof party cardigan locavore</p>\n<ul>\n<li>This</li>\n<li>Is</li>\n<li>A</li>\n</ul>\n<p>Beard roof party cardigan locavore you probably haven't heard of them squid artisan edison </p>\n<ul>\n<li>New</li>\n<li>Post</li>\n</ul>",frontmatter:{title:"Our second blog pst",date:"February 22 2018"}}},pathContext:{slug:"/posts/our-second-post/"}}}});
+//# sourceMappingURL=path---posts-our-second-post-371c08de4063ed5d1e4f.js.map
